@@ -1,7 +1,5 @@
 # Hi there, I'm Leonardo S. Miguel Jr. 👋
 
-![Banner Image](https://yourbannerurl.com/banner.png)
-
 ## About Me 🧑‍💻
 
 - 🎓 **Bachelor of Science in Computer Engineering** from Cagayan State University – Carig Campus (2018 - 2022)
@@ -62,4 +60,4 @@ Created using Python, integrating PyTorch, OpenCV, and MediaPipe modules for enh
 Feel free to reach out for collaborations or just a chat!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lmiguel94104@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/leonardo-miguel-jr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-miguel-jr)
