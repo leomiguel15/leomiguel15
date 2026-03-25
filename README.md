@@ -2,7 +2,7 @@
 
 - 🎓 **Bachelor of Science in Computer Engineering** from Cagayan State University – Carig Campus (2018 - 2022)
 - 🌟 **Site Reliability Engineer** with extensive experience in cloud services, infrastructure automation, and incident management.
-- 💼 Currently working at **Trend Micro Inc.** as a **Senior Site Reliability Engineer**.
+- 💼 Currently working at **Bell Canada** as a **Senior Cloud - Site Reliability Engineer**.
 
 ## Skills 🛠️
 
